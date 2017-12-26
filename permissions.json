@@ -4,5 +4,10 @@
     "pullanddeploy": false,
     "setUsername": false
   },
-  "users": {}
+	"users":{
+		"179049652606337024":{
+			"eval": false,
+			"pullanddeploy": true
+		}
+	}
 }
